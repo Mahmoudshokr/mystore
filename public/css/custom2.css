@@ -1,0 +1,7 @@
+body{
+    padding-top: 0px;
+}
+
+ul.dropdown-menu.dropdown-user.show{
+    height: 106px;
+}
